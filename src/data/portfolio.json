@@ -2,21 +2,21 @@
     "portfolio":[
         {
             "cover":"/porfolio/rick/reactwiki.png",
-            "title":"React Wiki",
-            "description":"React, Bootstrap",
-            "url":"http://google.com"
+            "title":"Rick & Morty Wiki",
+            "description":"React, Bootstrap, API managment",
+            "url":"https://rick-and-morty-wiki-ivory.vercel.app/"
         },
         {
-            "cover":"/porfolio/rick/reactwiki.png",
-            "title":"React Wiki",
-            "description":"React, Bootstrap",
-            "url":"http://google.com"
+            "cover":"/porfolio/rick/e'commerce.png",
+            "title":"E-commerce",
+            "description":"Html, JavaScript, Css, API managment",
+            "url":"https://ignaciothompson.github.io/workspace-inicial/"
         },
         {
-            "cover":"/porfolio/rick/reactwiki.png",
-            "title":"React Wiki",
-            "description":"React, Bootstrap",
-            "url":"http://google.com"
+            "cover":"/porfolio/rick/nasa (2).png",
+            "title":"Photo search engine",
+            "description":"Html, JavaScript, Css, API managment",
+            "url":"https://ignaciothompson.github.io/buscador-nasa/"
         }
     ]
 }
