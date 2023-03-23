@@ -23,7 +23,7 @@
 
 .image-box {
     position: relative;
-    flex: 1 1 20%;
+    flex: 1 1 33%;
     height: 400px;
     overflow: hidden;
     border-radius: 10px;
@@ -111,5 +111,26 @@
     &:hover .content {
         bottom: 0;
         background: transparent;
+    }
+}
+
+@media screen and (max-width:900px) {
+    .container.portfolio-page{
+        width: 100%;
+        padding: 20px;
+        box-sizing: border-box;
+
+        h1.page-title{
+            margin-left: 20px;
+        }
+
+        .images-container{
+            padding-right: 0;
+        }
+
+        .image-box {
+            height: 200px;
+            max-width: calc(50% - 10px)
+        }
     }
 }
