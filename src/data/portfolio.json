@@ -13,10 +13,10 @@
             "url":"https://ignaciothompson.github.io/workspace-inicial/"
         },
         {
-            "cover":"/porfolio/rick/nasa (2).png",
-            "title":"Photo search engine",
-            "description":"Html, JavaScript, Css, API managment",
-            "url":"https://ignaciothompson.github.io/buscador-nasa/"
+            "cover":"/porfolio/rick/Redata.png",
+            "title":"Repositorio de datos del Uruguay",
+            "description":"Xhtml, JavaScript, Css, API managment, Linux",
+            "url":"https://redata.anii.org.uy/"
         }
     ]
 }

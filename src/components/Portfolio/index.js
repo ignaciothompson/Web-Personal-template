@@ -42,7 +42,7 @@ const Portfolio = () => {
         <div className='page-title'>
             <h1>
                 <AnimatedLetters 
-                    strArray={['P','o','r','t','f','o','l','i','o',]}
+                    strArray={['P','o','r','t','a','f','o','l','i','o',]}
                     idx={15}
                 />
             </h1>

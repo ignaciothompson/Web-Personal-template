@@ -12,18 +12,18 @@ const About = () =>{
             <div className='text-zone'>
                 <h1>
                     <AnimatedLetters 
-                        strArray={['A','b','o','u','t',' ','m','e',]}
+                        strArray={['S','o','b','r','e',' ','m','i',]}
                         idx={15}
                     />
                 </h1>
                 <p>
-                Hi! I'm a front end developer with experience creating user-friendly websites. My passion for web development began early in my career, and I've honed my skills through various projects. As a front end developer, I specialize in implementing responsive user interfaces that enhance the user experience.                
+                ¡Hola! Soy un desarrollador front-end con experiencia en la creación de sitios web amigables para el usuario. Mi pasión por el desarrollo web comenzó temprano en mi carrera, y he perfeccionado mis habilidades a través de diversos proyectos. Como desarrollador front-end, me especializo en la implementación de interfaces de usuario responsivas que mejoran la experiencia del usuario.                
                 </p>
                 <p>
-                I excel at designing and developing intuitive web interfaces that meet clients' needs. My expertise in front-end technologies enables me to develop dynamic websites that meet industry standards. Working with clients, I ensure that the end product is tailored to their unique goals.                
+                Destaco en el diseño y desarrollo de interfaces web intuitivas que satisfacen las necesidades de los clientes. Mi experiencia en tecnologías front-end me permite desarrollar sitios web dinámicos que cumplen con los estándares de la industria. Trabajando con los clientes, me aseguro de que el producto final esté adaptado a sus objetivos únicos.                
                 </p>
                 <p>
-                I stay current with the latest web development trends and technologies, always experimenting with new ideas and techniques. I'm committed to improving my skills to deliver high-quality websites that engage and delight users. If you're looking for a passionate front end developer, I'd love to work with you!                
+                Me mantengo al día con las últimas tendencias y tecnologías de desarrollo web, siempre experimentando con nuevas ideas y técnicas. Estoy comprometido a mejorar mis habilidades para ofrecer sitios web de alta calidad que cautiven y deleiten a los usuarios. Si estás buscando un desarrollador front-end apasionado, ¡me encantaría trabajar contigo!                
                 </p>
             </div>
 

@@ -34,19 +34,18 @@ const Contact = () => {
             <div className='text-zone'>
                 <h1>
                     <AnimatedLetters 
-                        strArray={['C','o','n','t','a','c','t',' ','m','e',]}
+                        strArray={['C','o','n','t','a','c','t','a','m','e',]}
                         idx={15}
                     />
                 </h1>
                 <p>
-                    I'm interested in a job opportunity where I can grow as a developer and as a person, I live in Uruguay but I'm willing to relocate if necessary. 
-                    I'm also open to any freelance opportunities.
+                Estoy interesado en una oportunidad laboral donde pueda crecer como desarrollador y como persona, estoy abierto a cualquier oportunidad de trabajo freelance.
                 </p>
                 <div className='contact-form'>
                 <form ref={refForm} onSubmit={sendEmail}>
               <ul>
                 <li className="half">
-                  <input placeholder="Name" type="text" name="name" required />
+                  <input placeholder="Nombre" type="text" name="name" required />
                 </li>
                 <li className="half">
                   <input
@@ -58,7 +57,7 @@ const Contact = () => {
                 </li>
                 <li>
                   <input
-                    placeholder="Subject"
+                    placeholder="Asunto"
                     type="text"
                     name="subject"
                     required
@@ -66,13 +65,13 @@ const Contact = () => {
                 </li>
                 <li>
                   <textarea
-                    placeholder="Message"
+                    placeholder="Mensaje"
                     name="message"
                     required
                   ></textarea>
                 </li>
                 <li>
-                  <input type="submit" className="flat-button" value="SEND" />
+                  <input type="submit" className="flat-button" value="Enviar" />
                 </li>
               </ul>
             </form>

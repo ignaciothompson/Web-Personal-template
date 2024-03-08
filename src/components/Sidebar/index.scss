@@ -71,26 +71,26 @@
 
             &:first-child{
                 &::after{
-                    content: 'HOME';
+                    content: 'INICIO';
                 }
             }
         }
 
         a.about-link{
             &:after{
-                content: 'ABOUT';
+                content: 'SOBRE MI';
             }
         }
 
         a.contact-link{
             &:after{
-                content: 'CONTACT';
+                content: 'CONTACTO';
             }
         }
 
         a.portfolio{
             &:after{
-                content: 'WORK';
+                content: 'TRABAJOS';
             }
         }
 
